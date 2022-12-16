@@ -1,0 +1,51 @@
+.navbar{
+   overflow: hidden;
+   text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+}
+
+.navbar .header-container{
+    font-family: 'Urbanist', sans-serif;
+    background-color: #205696;
+    margin-top: 0rem;  
+    padding-bottom: 1rem;
+    padding-top: 0rem;
+    color: white;
+}
+
+.navbar .header{
+    display: inline-block;
+    font-size: 48px;
+    margin-right: 35rem;
+    margin-left: 38rem;
+}
+
+.navbar .icon{
+    display: inline-block;
+    width: 2rem;
+}
+
+.navbar .list-container{
+    font-family: 'Urbanist', sans-serif;
+    background-color: #193960;
+    margin-top: 0rem;
+}
+
+.navbar .list-items{
+    display: inline-block;
+    font-size: 24px;
+    padding: 1.2rem;
+    padding-left: 7rem;
+}
+
+.navbar .list-items-link{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar .first-list-items{
+    margin-left: -7.6rem;
+}

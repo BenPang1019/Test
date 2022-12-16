@@ -1,0 +1,145 @@
+.about{
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Urbanist';
+}
+
+.about .image{
+    width: 100%;
+    margin-top: -1rem;
+}
+
+.about .containerOne .containerOneHOne{
+    margin-left: -65rem;
+    margin-top: -12rem;
+    color: white;
+    font-size: 128px;
+}
+
+.about .containerOne .containerOneHTwo{
+    margin-top: -3rem;
+    margin-left: -72rem;
+    color: #205696;
+    font-size: 40px;
+
+}
+
+.about .containerOne .containerOneHThree{
+    margin-top: -13rem;
+    margin-left: 59rem;
+    font-size: 32px;
+}
+
+.about .containerTwo{
+    background-color: #205696;
+    margin-top: 10rem;
+    height: 20rem;
+}
+
+.about .marginTest{
+    margin-left: -10rem;
+}
+
+.about .containerTwoHOne{
+    display: inline-block;
+    font-size: 96px;
+    color: white;
+    padding-left: 10rem;
+}
+
+.about .margin{
+    margin-left: -14.5rem;
+    margin-top: -5rem;
+}
+
+.about .containerTwoHTwo{
+    display: inline-block;
+    font-size: 24px;
+    color: white;
+    padding-left: 15rem;
+    
+}
+
+.about .containerThree{
+    width: 885px;
+    height: 96px;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about .containerThree .containerThreeHOne{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #205696;
+}
+
+.about .containerThree .containerThreePOne{
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.about .imageContainer .image{
+    width: 100%;
+    margin-top: 10rem;
+}
+
+.about .containerFour{
+    width: 50rem;
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about .containerFourHOne{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #205696;
+}
+
+.about .containerFourHTwo{
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.about .containerFive{
+    width: 90rem;
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about .containerFive .containerImage{
+    display: inline-block;
+    margin-top: -5rem;
+    padding: 4rem;
+}
+
+.about .containerFive .containerImageH{
+    color: #205696;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.about .containerFive .containerImageP{
+    color: #000000;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.about .containerFive .containerFiveButton{
+    text-decoration: none;
+    width: 142px;
+    height: 50px;
+    background: #205696;
+    border-radius: 10px;
+    border-color: transparent;
+    font-size: 24px;
+    color: white;
+}

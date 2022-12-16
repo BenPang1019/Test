@@ -1,0 +1,47 @@
+.pids{
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Urbanist';
+}
+
+.pids .containerOne{
+    width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+}
+
+.pids .containerOne .containerOneHOne{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    color: rgba(30, 30, 30, 0.8);
+}
+
+.pids .containerOne .containerOneHTwo{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #205696;
+}
+
+.pids .containerOne .containerOneHThree{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #1E1E1E;
+}
+
+.pids .containerTwo {
+    width: 50rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+}
+
+.pids .containerTwo .containerTwoPOne{
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}

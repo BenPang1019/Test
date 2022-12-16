@@ -1,0 +1,31 @@
+.adminDashboard {
+    overflow: hidden;
+    text-align: center;
+    background-color: #205696;
+    font-family: 'Urbanist';
+    min-height: 100vh;
+}
+
+.adminDashboard .icon{
+    width: 10rem;
+}
+
+.adminDashboard .headerOne{
+    font-size: 35px;
+    margin-top: 10rem;
+}
+
+.adminDashboard .headerTwo{
+    font-size: 25px;
+    margin-bottom: -2rem;
+    margin-top: 10rem;
+}
+
+.adminDashboard .function{
+    display: inline-block;
+    padding: 5rem;
+}
+
+.adminDashboard .image{
+    width: 5rem;
+}

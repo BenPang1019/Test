@@ -1,0 +1,131 @@
+.footer{
+    background-color:#205696 ;
+    overflow: hidden;
+    height: 25rem ;
+    font-family: 'Urbanist', sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 20.6rem;
+}
+
+.footer .container-one{
+   margin-left: -70rem;
+}
+
+.footer .list-items-one{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -6rem;
+}
+.footer .list-items-two{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -4.5rem;
+}
+.footer .list-items-three{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -4.5rem;
+}
+.footer .list-items-four{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -6.5rem;
+}
+.footer .list-items-five{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -4.8rem;
+}
+.footer .list-items-six{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -2rem;
+}
+.footer .list-items-seven{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -4.3rem;
+}
+.footer .list-items-eight{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: -2rem;
+}
+
+.footer .container-two{
+    margin-left: -25rem;
+    margin-top: -17rem;
+}
+
+.footer .icon-one{
+    width: 1.5rem;
+    padding-right: 1rem;
+    margin-left: 5.5rem;
+}
+
+.footer .icon{
+    width: 1.5rem;
+    padding-right: 1rem;
+}
+
+.footer .container-two-p{
+    margin-left: 9rem;
+    font-size: 20px;
+}
+
+.footer .container-two-p-p{
+    margin-left: 5.5rem;
+    margin-top: -1rem;
+    font-size: 20px;
+}
+
+.footer .container-three{
+    margin-left: 25rem;
+    margin-top: -18.3rem;
+}
+
+.footer .container-three-p{
+    margin-left: -0.5rem;
+    font-size: 20px;
+}
+
+.footer .container-three-h{
+    margin-left: 4.5rem;
+}
+
+.footer .container-three-p-p{
+    margin-left: -3rem;
+    font-size: 20px;
+}
+
+
+.footer .container-four{
+    margin-left: 65rem;
+    margin-top: -16.3rem;
+}
+
+.footer .containerMap{
+    margin-left: 10rem;
+}
+
+.footer .googlemap{
+    height: 12rem;
+}
+
+.footer .container-five{
+    text-align: center;
+    background-color: #193960;
+    margin-top: 4.3rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+

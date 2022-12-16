@@ -1,0 +1,29 @@
+.upload{
+    text-align: center;
+    background-color: #205696;
+    font-family: 'Urbanist';
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+.upload .Label{
+    font-size: 30px;
+    padding-bottom: 1rem;
+}
+
+.upload .input{
+    width: 12rem;
+    height:2rem
+}
+
+.upload .inputSpec{
+    width: 20rem;
+    height:10rem
+}
+
+.upload .button{
+    margin-top: 2rem;
+    width: 5rem;
+    height: 3rem;
+    border-radius: 10px;
+}

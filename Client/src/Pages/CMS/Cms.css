@@ -1,0 +1,47 @@
+.cms{
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Urbanist';
+}
+
+.cms .containerOne{
+    width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+}
+
+.cms .containerOne .containerOneHOne{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    color: rgba(30, 30, 30, 0.8);
+}
+
+.cms .containerOne .containerOneHTwo{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #205696;
+}
+
+.cms .containerOne .containerOneHThree{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #1E1E1E;
+}
+
+.cms .containerTwo {
+    width: 45rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+}
+
+.cms .containerTwo .containerTwoPOne{
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}

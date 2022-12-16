@@ -1,0 +1,317 @@
+.home{
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Urbanist';
+}
+
+.home .image{
+    width: 100%;
+    margin-top: -1rem;
+}
+
+/* @media (min-width:160rem){
+    .home .image{
+        width: 160rem;
+        margin-top: -1rem;
+    }
+}
+
+@media (min-width:223rem){
+    .home .image{
+        width: 224rem;
+        margin-top: -1rem;
+    }
+} */
+
+.home .container-one-h{
+    margin-left: -55rem;
+    margin-top: -12rem;
+    color: white;
+    font-size: 128px;
+}
+
+.home .container-one-h-h{
+    margin-top: -3rem;
+    margin-left: -63rem;
+    color: #205696;
+    font-size: 40px;
+}
+
+.home .container-one-h-h-h{
+    margin-top: -4.1rem;
+    margin-left: 70rem;
+    font-size: 32px;
+}
+
+.home .container-card{
+    padding-top: 3rem;
+    text-align: center;
+    --bs-gutter-x:1.5rem;
+	--bs-gutter-y:0; 
+	width:90rem;
+	margin-right:auto;
+	margin-left:auto;
+	display:flex;
+	flex-wrap:inherit;
+	align-items:center;
+	justify-content:space-between;
+    
+}
+
+.home .card{
+    display: inline-block;
+    height: 13rem;
+    margin-right: 2rem;
+    background-color:#205696 ;
+    border-radius: 1rem;
+}
+
+.home .empty-container{
+    margin-top: 3rem;
+}
+
+.home .container-card .swiper-button-next {
+	right: 5rem;
+    top: 5.5rem;
+	color: #000 !important;
+	fill: black !important;
+	stroke: black !important;
+	width: 75px;
+	height: 75px;
+}
+
+.home .container-card .swiper-button-prev {
+	left: 3rem;
+    top: 5.5rem;
+	color: #000 !important;
+	fill: black !important;
+	stroke: black !important;
+	width: 75px;
+	height: 75px;
+}
+
+.home .card-h{
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.home .containerThree{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.home .containerThree-h{
+    font-size: 40px;
+    color: #205696;
+}
+
+.home .containerThree-p{
+    font-size: 20px;
+    font-weight: 300;
+    color: #000000;
+}
+
+.home .container-image{
+    display: inline-block;
+    padding: 4rem;
+}
+
+.home .container-image-h{
+    color: #205696;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.home .container-image-p{
+    color: #000000;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.home .containerThree-button{
+    text-decoration: none;
+    width: 142px;
+    height: 50px;
+    background: #205696;
+    border-radius: 10px;
+    border-color: transparent;
+    font-size: 24px;
+    color: white;
+}
+
+.home .containerFour{
+    background-color: #205696;
+    padding: 2rem;
+    margin-top: 5rem;
+    color: white;
+    width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home .containerFourHeader{
+    font-size: 40px;
+}
+
+.home .containerFourPrgOne{
+    font-size: 24px;
+}
+
+.home .containerFourPrgTwo{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.home .containerFourPrgThree{
+    font-size: 16px;
+}
+
+.home .containerFour .swiper-button-next {
+	right: 4rem;
+    top: 4rem;
+	color: #000 !important;
+	fill: black !important;
+	stroke: black !important;
+	width: 75px;
+	height: 75px;
+}
+
+.home .containerFour .swiper-button-prev {
+	left: 4rem;
+    top: 4rem;
+	color: #000 !important;
+	fill: black !important;
+	stroke: black !important;
+	width: 75px;
+	height: 75px;
+}
+
+.home .containerFive{
+    margin-left: -30rem;
+    margin-top: 5rem;
+}
+
+.home .containerFiveHeader{
+    margin-left: -28rem;
+    font-size: 40px;
+    font-weight: 700;
+    color: #205696;
+}
+
+.home .containerFiveHeaderNew{
+    margin-left: -32rem;
+    font-size: 40px;
+    font-weight: 700;
+    color: #205696;
+}
+
+.home .containerFivePrg{
+    text-align: left;
+    margin-top: -4rem;
+    margin-left: 1.5rem;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+
+.home .containerFivePrgNew{
+    text-align: left;
+    margin-top: -6rem;
+    margin-left: 1.5rem;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+
+.home .containerFiveCard{
+    display: inline-block;
+    padding-right: 1rem;
+}
+
+.home .containerFiveCardMore{
+    background-color: #D9D9D9;
+    display: inline-block;
+    width: 17rem;
+    height: 15.6rem;
+    margin-right: -23rem;
+    margin-left: 5rem;
+    line-height: 2rem;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.home ol{
+    color: #205696;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.home .containerFiveCardMorePrg{
+    text-decoration: none;
+    text-align: right;
+    font-weight: 500;
+    color: #1E1E1E;
+}
+
+.home .More{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    color: #205696;
+    margin-left: 87rem;
+}
+
+.home .containerSixHeader{
+    color: #205696;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.home .prgCotainer{
+    width: 95rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home .containerSix{
+    margin-top: 5rem; 
+    width: 95rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.home .containerSixCardPrg{
+    position: relative;
+    text-align: left;
+    color: white;
+    width: 480px;
+    height: 417px;
+    background-color: #205696;
+    margin-left: 47rem;
+    margin-top: -28.32rem;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+
+.home .containerSix .swiper-pagination {
+    top: 8rem;
+    right: 85rem;
+    text-align: center;
+    transition: 300ms opacity;
+    transform: translate3d(0, 0, 0);
+}
+
+.home .containerSix .swiper-pagination-bullet {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+  }
+  
+
+
